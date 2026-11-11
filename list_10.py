@@ -3,7 +3,7 @@
 # can change elements , delete
 #  allow duplicate value
 # list items ordered
-# list items created by  []
+# list  created by  []
 # list first index is [0]
 # list  negative index start from end
 
